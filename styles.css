@@ -1,0 +1,74 @@
+body {
+  text-align: center;
+  background-color: #3a7b6c;
+  background-position: inherit;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #a5bdc5;
+  font-family: "Arvo", cursive;
+  text-shadow: 8px 0 #bf1d66;
+  
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.m {
+  background-image: url(images/monggi.png);
+}
+
+.h {
+  background-image: url(images/justgothere.png);
+}
+
+.o {
+  background-image: url(images/manny.png);
+}
+
+.l {
+  background-image: url(images/uncleben.png);
+}
+
+.k {
+  background-image: url(images/deeznuts.png);
+}
+
+.z {
+  background-image: url(images/beetlejuice.png);
+}
+
+.set {
+  margin: 10% auto;
+}
+
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #32758b;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 0rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}

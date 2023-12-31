@@ -1,4 +1,4 @@
-# This Funny Moment Memes Project that I created for fun by using tools such as NPM and Node.JS
+# This Funny Moment Memes Project that I created for fun by using tools such as NPM and DOM.
 ![image](https://github.com/Johnpepsi/my-memeKit/assets/112512965/f397c25e-6890-4782-a93f-b2d997139aae)
 - You can download the zip file if would like to play this locally for fun.
 # About this Project
